@@ -1,0 +1,20 @@
+body {
+    background-color: burlywood;
+
+}
+    
+h1,
+h2 ,h3 {
+    font-family: 'Anton',
+        sans-serif;
+}
+main{
+    font-family: 'Anton',
+    sans-serif;
+}
+ .code,code {
+     font-family: 'Anton',
+     sans-serif;
+     color:green ;
+     font-size: large;
+ }
